@@ -3,4 +3,5 @@ pandas
 numpy
 scikit-learn
 joblib
-categorical-encoding
+plotly
+category_encoders

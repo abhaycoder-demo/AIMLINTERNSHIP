@@ -4,7 +4,10 @@ This project predicts house rent using Machine Learning (Linear Regression + Enc
 
 ## 🚀 Live Demo
 🔗 https://aimlinternship-7c7jplp74ancyxlimkbsld.streamlit.app/
+
 https://aimlinternship-ezkzpuheeqhyd9hfvrcz8t.streamlit.app/
+
+https://aimlinternship-4xvvps6m2nym3hhnfxruhy.streamlit.app/
 
 ## 🛠️ Tech Stack
 - Python

@@ -3,11 +3,11 @@
 This project predicts house rent using Machine Learning (Linear Regression + Encoding + Scaling).
 
 ## 🚀 Live Demo
-🔗 https://aimlinternship-7c7jplp74ancyxlimkbsld.streamlit.app/
+🔗 https://aimlinternship-7c7jplp74ancyxlimkbsld.streamlit.app/ (house rent prediction)
 
-https://aimlinternship-ezkzpuheeqhyd9hfvrcz8t.streamlit.app/
+https://aimlinternship-ezkzpuheeqhyd9hfvrcz8t.streamlit.app/(student performance prediction)
 
-https://aimlinternship-4xvvps6m2nym3hhnfxruhy.streamlit.app/
+https://aimlinternship-4xvvps6m2nym3hhnfxruhy.streamlit.app/(wine quality prediction)
 
 ## 🛠️ Tech Stack
 - Python
